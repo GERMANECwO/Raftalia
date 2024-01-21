@@ -3,7 +3,7 @@ from telebot import types
 from info import (Raftalia, diary, story_good_end, story_underground, story_neutral_end_21111, story_neutral_end_21112,
                   story_bad_end_path211121, story_good_end_path2, story_path2111)
 
-TOKEN = '6436229396:AAETecZbrkuiv_-vWuAlPdnXsl09Xhv_Cxc'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 # дополнительно
